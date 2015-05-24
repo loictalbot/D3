@@ -1,4 +1,4 @@
-# D3.js
+# A D3.js version of leboncoin.fr homepage
 
 une facon de faire la page d accueil du site leboncoin.fr
 
